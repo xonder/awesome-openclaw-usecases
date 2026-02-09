@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-10-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-11-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -25,6 +25,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | Name | Description |
 |------|-------------|
 | [Daily Reddit Digest](usecases/daily-reddit-digest.md) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
+| [Daily YouTube Digest](usecases/daily-youtube-digest.md) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
 | [X Account Analysis](usecases/x-account-analysis.md) | Get a qualitative analysis of your X account.|
 
 ## Creative & Building
