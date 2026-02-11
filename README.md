@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-10-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-13-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -42,6 +42,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Personal CRM](usecases/personal-crm.md) | Automatically discover and track contacts from your email and calendar, with natural language queries. |
 | [Health & Symptom Tracker](usecases/health-symptom-tracker.md) | Track food intake and symptoms to identify triggers, with scheduled check-in reminders. |
 | [Multi-Channel Personal Assistant](usecases/multi-channel-assistant.md) | Route tasks across Telegram, Slack, email, and calendar from a single AI assistant. |
+| [Project State Management](usecases/project-state-management.md) | Event-driven project tracking with automatic context capture, replacing static Kanban boards. |
+| [Dynamic Dashboard](usecases/dynamic-dashboard.md) | Real-time dashboard with parallel data fetching from APIs, databases, and social media. |
 
 ## Research & Learning
 
@@ -49,6 +51,12 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 |------|-------------|
 | [AI Earnings Tracker](usecases/earnings-tracker.md) | Track tech/AI earnings reports with automated previews, alerts, and detailed summaries. |
 | [Personal Knowledge Base (RAG)](usecases/knowledge-base-rag.md) | Build a searchable knowledge base by dropping URLs, tweets, and articles into chat. |
+
+## Finance & Trading
+
+| Name | Description |
+|------|-------------|
+| [Polymarket Autopilot](usecases/polymarket-autopilot.md) | Automated paper trading on prediction markets with backtesting, strategy analysis, and daily performance reports. |
 
 ## 🤝 Contributing
 
